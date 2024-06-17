@@ -57,7 +57,7 @@ fsc.display_scores()
 ## Contributors
 
 - Sanjay (sanjaykabaddi5858@gmail.com)
-- 
+  
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
